@@ -2,7 +2,7 @@
 # These are for testing
 factory-boy==2.9.2
 fake-factory==9999.9.9
-coverage
+coverage==4.4.2
 mock
 pytest
 mixer
