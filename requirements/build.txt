@@ -3,7 +3,7 @@
 # include base.txt
 sphinx==1.6.5
 sphinx-intl==0.9.10
-sphinx-rtd-theme
+sphinx-rtd-theme==0.2.4
 sphinx-autobuild
 pex
 wheel
