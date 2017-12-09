@@ -1,6 +1,6 @@
 django-filter==1.1.0
 django-js-reverse==0.7.3
-six==1.10.0
+six==1.11.0
 djangorestframework==3.3.3
 django==1.9.13
 colorlog==2.6.0
