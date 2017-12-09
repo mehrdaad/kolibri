@@ -7,5 +7,5 @@ mock==2.0.0
 pytest==3.3.1
 mixer==5.6.6
 pytest-cov==2.5.1
-pytest-django
+pytest-django==3.1.2
 cryptography==2.1.4
