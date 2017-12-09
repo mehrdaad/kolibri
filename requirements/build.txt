@@ -6,5 +6,5 @@ sphinx-intl==0.9.10
 sphinx-rtd-theme==0.2.4
 sphinx-autobuild==0.7.1
 pex==1.2.15
-wheel
+wheel==0.30.0
 setuptools<20.11,>=2.2          # needed to get pex working
