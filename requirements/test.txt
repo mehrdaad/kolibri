@@ -3,7 +3,7 @@
 factory-boy==2.9.2
 fake-factory==9999.9.9
 coverage==4.4.2
-mock
+mock==2.0.0
 pytest
 mixer
 pytest-cov
