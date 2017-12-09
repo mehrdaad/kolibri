@@ -5,7 +5,7 @@ fake-factory==9999.9.9
 coverage==4.4.2
 mock==2.0.0
 pytest==3.3.1
-mixer
+mixer==5.6.6
 pytest-cov
 pytest-django
 cryptography==2.1.4
