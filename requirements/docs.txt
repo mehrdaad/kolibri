@@ -2,4 +2,4 @@
 
 # These are for building the docs
 sphinx
-sphinx_rtd_theme
+sphinx_rtd_theme==0.2.4
