@@ -2,7 +2,7 @@
 # This does not depend on runtime stuff so we do not
 # include base.txt
 sphinx
-sphinx-intl
+sphinx-intl==0.9.10
 sphinx-rtd-theme
 sphinx-autobuild
 pex
