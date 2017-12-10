@@ -4,7 +4,7 @@ factory-boy==2.7.0
 fake-factory==0.5.7
 coverage
 mock
-pytest
+pytest==3.3.1
 mixer
 pytest-cov
 pytest-django
