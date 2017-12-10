@@ -6,6 +6,6 @@ coverage
 mock
 pytest
 mixer
-pytest-cov
+pytest-cov==2.5.1
 pytest-django
 cryptography==1.8.1
